@@ -1,0 +1,94 @@
+body {
+  font-family: 'Rubik', sans-serif;
+}
+h1 {
+  font-size: 40px;
+}
+#promoteks h2 {
+  font-size: 35px;
+}
+#menuteks h2 {
+  font-size: 35px;
+}
+
+
+#menu { background-color: #f6dfdf ; 
+}
+#banner { background-color: #ffa500;
+  
+}
+section {
+  padding-top: 2rem;
+}
+
+.item img
+{
+  padding-top: 1rem;
+}
+.owl-carousel.home-slider .slider-item
+{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: calc (100vh-117px);
+  min-height: 300px;
+  position: relative;
+}
+
+.owl-carousel.home-slider .owl-dots {
+  position: absolute;
+  width: 100%;
+  bottom: 4%;
+}
+
+.owl-carousel.menu-1 .owl-dots {
+  position: absolute;
+  width: 100%;
+  top: 98%;
+}
+
+.owl-carousel.menu-2 .owl-dots {
+  position: absolute;
+  width: 100%;
+  top: 98%;
+}
+.owl-carousel .text-slider{
+
+  position:absolute;
+  top :20%;
+  right:30%;
+}
+.owl-carousel .text-slider1{
+
+  position:absolute;
+  top :20%;
+  right: 30%;
+  color: #fff;
+
+}
+.owl-carousel.home-slider h1 {
+  font-size: 40px;
+}
+.owl-carousel.menu-1 h5 {
+  font-weight: bold
+}
+.owl-carousel.menu-2 h4 {
+  font-weight: bold
+}
+.owl-carousel.menu-3 {
+  position: relative;
+  width: 100%;
+}
+.owl-carousel.menu-1 p 
+{font-size: 12px;}
+{font-size: 12px;}
+#instagram {
+  background-color: #484551;
+
+}
+#instagram h2 {
+  font-size: 50px;
+}
+.order-menu {
+  position
+}
